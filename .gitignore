@@ -1,4 +1,6 @@
 *.iml
-.idea
-out
-target
+.idea/
+out/
+target/
+basket.txt
+basket.bin
